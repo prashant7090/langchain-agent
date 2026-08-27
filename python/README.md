@@ -18,8 +18,8 @@ You can find the course at [Deep Agents](https://academy.langchain.com/courses/f
 Clone the repository and move to the `python` directory:
 
 ```bash
-git clone --depth 1 https://github.com/langchain-ai/lca-deepagents.git
-cd lca-deepagents/python
+git clone --depth 1 https://github.com/prashant7090/langchain-agent.git
+cd langchain-demo/python
 ```
 
 Make a copy of `.env.example`:
